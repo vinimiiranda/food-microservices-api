@@ -1,5 +1,9 @@
 # 🚀 Food Microservices API (Spring Boot & Spring Cloud)
 
+[![CI](https://github.com/vinimiiranda/food-microservices-api/actions/workflows/ci.yml/badge.svg)](https://github.com/vinimiiranda/food-microservices-api/actions/workflows/ci.yml)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?logo=spring&logoColor=white)
+
 Projeto desenvolvido com **Java + Spring Boot + Spring Cloud**, aplicando na prática conceitos de **arquitetura de microsserviços**, comunicação entre serviços e escalabilidade de aplicações distribuídas.
 
 A aplicação simula um sistema de pedidos e pagamentos, onde os serviços se comunicam entre si de forma desacoplada, utilizando **Service Discovery, API Gateway e OpenFeign**.
